@@ -1,0 +1,332 @@
+{
+    "Hotels": [
+       {
+          "Hotel Description": {
+             "Name": "Suite Sadaf",
+             "Thumbnail Image": "URL_to_thumbnail_image",
+             "Hotel Images": ["URL_to_image1", "URL_to_image2", "URL_to_image3"],
+             "User Rating": 4.5,
+             "Star Rating": 4,
+             "Location": "Cox's Bazar",
+             "Top Features": ["Swimming Pool", "Fitness Center", "Free Parking"],
+             "Price": {
+                "Currency": "BDT",
+                "Per Night": 2500
+             },
+             "Business Facilities": {
+                "Auditorium": true,
+                "Fitness & Wellness Facilities": true,
+                "Swimming Pool": true
+             },
+             "Food & Drink": {
+                "Set Menu Lunch": true
+             },
+             "General": {
+                "Air Conditioning": true,
+                "Check-In": "12:00",
+                "Check-Out": "11:00",
+                "ID Required": true,
+                "Towel": true,
+                "Couple Friendly": true,
+                "Coffee/Tea in Lobby": true
+             },
+             "Media & Technology": {
+                "Computer": true,
+                "Mobile Phone Coverage": true,
+                "Telephone": true
+             },
+             "Parking": {
+                "Free Large Vehicle Parking": true
+             },
+             "Safety & Security": {
+                "24-Hour Security": true
+             },
+             "Services & Extras": {
+                "Tours/Ticket Assistance": true
+             }
+          },
+          "Hotel Description Details": {
+             "Number of Rooms": 63,
+             "Number of Floors": 10,
+             "Suite Sadaf": "offers accommodation in Cox's Bazar. The hotel has a sun terrace and views of the sea, and guests can enjoy a drink at the bar. Rooms are equipped with a flat-screen TV with satellite channels. All rooms have a private bathroom fitted with a bath or shower. You will find a 24-hour front desk at the property.",
+             "Policy": {
+                "Check In": "12:00",
+                "Check Out": "11:00",
+                "Instructions": [
+                   "Extra-person charges may apply and vary depending on property policy",
+                   "Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges",
+                   "Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed",
+                   "The name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation",
+                   "This property accepts credit cards, debit cards, and cash",
+                   "Safety features at this property include a fire extinguisher, a security system, and a first aid kit",
+                   "Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property",
+                   "Special Instructions: This property offers transfers from the airport (surcharges may apply). Guests must contact the property with arrival details before travel, using the contact information on the booking confirmation. This property doesn't offer after-hours check-in. Front desk staff will greet guests on arrival."
+                ],
+                "Child Policy": {
+                   "Allow": true,
+                   "Condition": "Children between 0-5 years will enjoy a complimentary stay. Children above 5 years will be charged BDT. 1,000 for extra bed and breakfast."
+                },
+                "Pet Policy": false
+             }
+          },
+          "Rooms": [
+             {
+                "type": "Family Suite",
+                "Bed": "Queen",
+                "Person": {
+                   "Adults": 4,
+                   "Children": 2
+                },
+                "Adult Occupancy": 4,
+                "Complementary Child Occupancy": 2,
+                "On Demand Extra Bed": 1,
+                "Maximum Number of Guests Allowed": 5,
+                "Room Type": "SuiteNon-Smoking Room",
+                "Room Characteristics": "PremierRoom",
+                "Size": "None",
+                "Room View": "Sea View",
+                "Facilities": {
+                   "Media & Technology": {
+                      "Telephone": true,
+                      "Cable TV": true,
+                      "Internet": true,
+                      "Wi-Fi": true,
+                      "TV": true
+                   },
+                   "Bedroom Facilities": {
+                      "Balcony": true,
+                      "Air Conditioning": true,
+                      "Blankets": true,
+                      "Curtain": true
+                   },
+                   "Food & Drink": {
+                      "Free Bottled Water": true,
+                      "Mini Fridge": true
+                   },
+                   "Bathroom Facilities": {
+                      "Towels": true,
+                      "Toiletries": true,
+                      "Bathroom": true,
+                      "Hot Water": true
+                   },
+                   "Others": {
+                      "Room Service": true,
+                      "Housekeeping": true
+                   }
+                }
+             },
+             {
+                "type": "Suite Honeymoon Sea View",
+                "Bed": "King",
+                "Person": {
+                   "Adults": 2,
+                   "Children": 1
+                },
+                "Adult Occupancy": 4,
+                "Complementary Child Occupancy": 2,
+                "On Demand Extra Bed": 1,
+                "Maximum Number of Guests Allowed": 5,
+                "Room Type": "SuiteNon-Smoking Room",
+                "Room Characteristics": "PremierRoom",
+                "Size": "None",
+                "Room View": "Sea View",
+                "Facilities": {
+                   "Media & Technology": {
+                      "Telephone": true,
+                      "Cable TV": true,
+                      "Internet": true,
+                      "Wi-Fi": true,
+                      "TV": true
+                   },
+                   "Bedroom Facilities": {
+                      "Balcony": true,
+                      "Air Conditioning": true,
+                      "Blankets": true,
+                      "Curtain": true
+                   },
+                   "Food & Drink": {
+                      "Free Bottled Water": true,
+                      "Mini Fridge": true
+                   },
+                   "Bathroom Facilities": {
+                      "Towels": true,
+                      "Toiletries": true,
+                      "Bathroom": true,
+                      "Hot Water": true
+                   },
+                   "Others": {
+                      "Room Service": true,
+                      "Housekeeping": true
+                   }
+                }
+             }
+             
+          ]
+       },
+       {
+        "Hotel Description": {
+           "Name": "Sayeman Beach Resort",
+           "Thumbnail Image": "URL_to_thumbnail_image",
+           "Hotel Images": ["URL_to_image1", "URL_to_image2", "URL_to_image3"],
+           "User Rating": 4.5,
+           "Star Rating": 4,
+           "Location": "Cox's Bazar",
+           "Top Features": ["Swimming Pool", "Fitness Center", "Free Parking"],
+           "Price": {
+              "Currency": "BDT",
+              "Per Night": 2500
+           },
+           "Business Facilities": {
+              "Auditorium": true,
+              "Fitness & Wellness Facilities": true,
+              "Swimming Pool": true
+           },
+           "Food & Drink": {
+              "Set Menu Lunch": true
+           },
+           "General": {
+              "Air Conditioning": true,
+              "Check-In": "12:00",
+              "Check-Out": "11:00",
+              "ID Required": true,
+              "Towel": true,
+              "Couple Friendly": true,
+              "Coffee/Tea in Lobby": true
+           },
+           "Media & Technology": {
+              "Computer": true,
+              "Mobile Phone Coverage": true,
+              "Telephone": true
+           },
+           "Parking": {
+              "Free Large Vehicle Parking": true
+           },
+           "Safety & Security": {
+              "24-Hour Security": true
+           },
+           "Services & Extras": {
+              "Tours/Ticket Assistance": true
+           }
+        },
+        "Hotel Description Details": {
+           "Number of Rooms": 63,
+           "Number of Floors": 10,
+           "Suite Sadaf": "offers accommodation in Cox's Bazar. The hotel has a sun terrace and views of the sea, and guests can enjoy a drink at the bar. Rooms are equipped with a flat-screen TV with satellite channels. All rooms have a private bathroom fitted with a bath or shower. You will find a 24-hour front desk at the property.",
+           "Policy": {
+              "Check In": "12:00",
+              "Check Out": "11:00",
+              "Instructions": [
+                 "Extra-person charges may apply and vary depending on property policy",
+                 "Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges",
+                 "Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed",
+                 "The name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation",
+                 "This property accepts credit cards, debit cards, and cash",
+                 "Safety features at this property include a fire extinguisher, a security system, and a first aid kit",
+                 "Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property",
+                 "Special Instructions: This property offers transfers from the airport (surcharges may apply). Guests must contact the property with arrival details before travel, using the contact information on the booking confirmation. This property doesn't offer after-hours check-in. Front desk staff will greet guests on arrival."
+              ],
+              "Child Policy": {
+                 "Allow": true,
+                 "Condition": "Children between 0-5 years will enjoy a complimentary stay. Children above 5 years will be charged BDT. 1,000 for extra bed and breakfast."
+              },
+              "Pet Policy": false
+           }
+        },
+        "Rooms": [
+           {
+              "type": "Family Suite",
+              "Bed": "Queen",
+              "Person": {
+                 "Adults": 4,
+                 "Children": 2
+              },
+              "Adult Occupancy": 4,
+              "Complementary Child Occupancy": 2,
+              "On Demand Extra Bed": 1,
+              "Maximum Number of Guests Allowed": 5,
+              "Room Type": "SuiteNon-Smoking Room",
+              "Room Characteristics": "PremierRoom",
+              "Size": "None",
+              "Room View": "Sea View",
+              "Facilities": {
+                 "Media & Technology": {
+                    "Telephone": true,
+                    "Cable TV": true,
+                    "Internet": true,
+                    "Wi-Fi": true,
+                    "TV": true
+                 },
+                 "Bedroom Facilities": {
+                    "Balcony": true,
+                    "Air Conditioning": true,
+                    "Blankets": true,
+                    "Curtain": true
+                 },
+                 "Food & Drink": {
+                    "Free Bottled Water": true,
+                    "Mini Fridge": true
+                 },
+                 "Bathroom Facilities": {
+                    "Towels": true,
+                    "Toiletries": true,
+                    "Bathroom": true,
+                    "Hot Water": true
+                 },
+                 "Others": {
+                    "Room Service": true,
+                    "Housekeeping": true
+                 }
+              }
+           },
+           {
+              "type": "Suite Honeymoon Sea View",
+              "Bed": "King",
+              "Person": {
+                 "Adults": 2,
+                 "Children": 1
+              },
+              "Adult Occupancy": 4,
+              "Complementary Child Occupancy": 2,
+              "On Demand Extra Bed": 1,
+              "Maximum Number of Guests Allowed": 5,
+              "Room Type": "SuiteNon-Smoking Room",
+              "Room Characteristics": "PremierRoom",
+              "Size": "None",
+              "Room View": "Sea View",
+              "Facilities": {
+                 "Media & Technology": {
+                    "Telephone": true,
+                    "Cable TV": true,
+                    "Internet": true,
+                    "Wi-Fi": true,
+                    "TV": true
+                 },
+                 "Bedroom Facilities": {
+                    "Balcony": true,
+                    "Air Conditioning": true,
+                    "Blankets": true,
+                    "Curtain": true
+                 },
+                 "Food & Drink": {
+                    "Free Bottled Water": true,
+                    "Mini Fridge": true
+                 },
+                 "Bathroom Facilities": {
+                    "Towels": true,
+                    "Toiletries": true,
+                    "Bathroom": true,
+                    "Hot Water": true
+                 },
+                 "Others": {
+                    "Room Service": true,
+                    "Housekeeping": true
+                 }
+              }
+           }
+           
+        ]
+     }
+       
+    ]
+ }
+ 
