@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Travel Place 1",
+        "place": "New York",
+        "image": "https://st2.depositphotos.com/3725083/5485/i/450/depositphotos_54856347-stock-photo-travel-the-world-monument-concept.jpg"
+    },
+    {
+        "name": "Travel Place 2",
+        "place": "Los Angeles",
+        "image": "https://st2.depositphotos.com/3725083/5485/i/450/depositphotos_54856347-stock-photo-travel-the-world-monument-concept.jpg"
+    },
+    {
+        "name": "Travel Place 3",
+        "place": "Chicago",
+        "image": "https://st2.depositphotos.com/3725083/5485/i/450/depositphotos_54856347-stock-photo-travel-the-world-monument-concept.jpg"
+    },
+    {
+        "name": "Travel Place 4",
+        "place": "San Francisco",
+        "image": "https://st2.depositphotos.com/3725083/5485/i/450/depositphotos_54856347-stock-photo-travel-the-world-monument-concept.jpg"
+    },
+    {
+        "name": "Travel Place 5",
+        "place": "Houston",
+        "image": "https://st2.depositphotos.com/3725083/5485/i/450/depositphotos_54856347-stock-photo-travel-the-world-monument-concept.jpg"
+    },
+    {
+        "name": "Travel Place 6",
+        "place": "Miami",
+        "image": "https://st2.depositphotos.com/3725083/5485/i/450/depositphotos_54856347-stock-photo-travel-the-world-monument-concept.jpg"
+    },
+    {
+        "name": "Travel Place 7",
+        "place": "Seattle",
+        "image": "https://st2.depositphotos.com/3725083/5485/i/450/depositphotos_54856347-stock-photo-travel-the-world-monument-concept.jpg"
+    },
+    {
+        "name": "Travel Place 8",
+        "place": "Boston",
+        "image": "https://st2.depositphotos.com/3725083/5485/i/450/depositphotos_54856347-stock-photo-travel-the-world-monument-concept.jpg"
+    },
+    {
+        "name": "Travel Place 9",
+        "place": "Denver",
+        "image": "https://st2.depositphotos.com/3725083/5485/i/450/depositphotos_54856347-stock-photo-travel-the-world-monument-concept.jpg"
+    },
+    {
+        "name": "Travel Place 10",
+        "place": "Austin",
+        "image": "https://st2.depositphotos.com/3725083/5485/i/450/depositphotos_54856347-stock-photo-travel-the-world-monument-concept.jpg"
+    }
+]
