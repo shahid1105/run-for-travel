@@ -1,0 +1,161 @@
+[
+    {
+      "id": 1,
+      "name": "Sunny Beach Retreat",
+      "destination": "Maldives",
+      "duration": "7 days",
+      "generalPrice": 3000,
+      "offerPrice": 2500,
+      "rating": 4.5,
+      "description": "Experience the ultimate beach vacation in the Maldives. Enjoy pristine beaches, crystal-clear waters, and luxurious accommodations.",
+      "highlights": [
+        "Private beach access",
+        "Water sports activities",
+        "Luxury beachfront resort",
+        "Scenic boat tours"
+      ],
+      "details": {
+        "overview": "A relaxing beach getaway in the Maldives.",
+        "location": "Maldives",
+        "timing": "Flexible",
+        "inclusionExclusionDescription": "Details about what's included and excluded in the package.",
+        "additionalInformation": "Any additional information about the tour.",
+        "travelTips": "Useful travel tips for the Maldives.",
+        "options": "Customization options for the package.",
+        "policy": "Booking and cancellation policies for the package."
+      },
+      "itinerary": {
+        "day1": {
+          "8:00 am": "Breakfast at the resort restaurant",
+          "10:00 am": "Relaxation on the private beach",
+          "1:00 pm": "Lunch at the beachside cafe",
+          "3:00 pm": "Water sports activities (snorkeling, jet skiing)",
+          "7:00 pm": "Dinner at the resort's fine dining restaurant"
+        },
+        "day2": {
+          "8:00 am": "Breakfast at the resort restaurant",
+          "9:00 am": "Scenic boat tour to nearby islands",
+          "1:00 pm": "Lunch on a secluded island",
+          "4:00 pm": "Beach volleyball and games",
+          "7:00 pm": "Dinner at a beachside barbecue"
+        },
+        "day3": {
+          "8:00 am": "Breakfast at the resort restaurant",
+          "10:00 am": "Relaxation on the private beach",
+          "1:00 pm": "Lunch at the beachside cafe",
+          "3:00 pm": "Snorkeling and exploring coral reefs",
+          "7:00 pm": "Dinner at the resort's seafood restaurant"
+        },
+        "day4": {
+          "8:00 am": "Breakfast at the resort restaurant",
+          "9:00 am": "Guided nature walk in the island's lush forests",
+          "1:00 pm": "Lunch at a local Maldivian restaurant",
+          "4:00 pm": "Visit to a traditional Maldivian village",
+          "7:00 pm": "Dinner at the resort's Italian restaurant"
+        },
+        "day5": {
+          "8:00 am": "Breakfast at the resort restaurant",
+          "9:00 am": "Day trip to a nearby uninhabited island",
+          "1:00 pm": "Picnic lunch on the island",
+          "3:00 pm": "Swimming and sunbathing on the island",
+          "7:00 pm": "Dinner at the resort's Asian fusion restaurant"
+        },
+        "day6": {
+          "8:00 am": "Breakfast at the resort restaurant",
+          "10:00 am": "Spa and wellness activities",
+          "1:00 pm": "Lunch at the spa's healthy cuisine restaurant",
+          "4:00 pm": "Relaxation by the infinity pool",
+          "7:00 pm": "Farewell beachfront dinner"
+        },
+        "day7": {
+          "8:00 am": "Breakfast at the resort restaurant",
+          "12:00 pm": "Check-out and departure from the Maldives"
+        }
+      }
+    },
+    {
+        "id": 2,
+        "name": "Mountain Adventure",
+        "destination": "Switzerland",
+        "duration": "2 days",
+        "generalPrice": 3999,
+        "offerPrice": 3000,
+        "rating": 4.8,
+        "description": "Embark on an exciting mountain adventure in the stunning Swiss Alps.",
+        "highlights": [
+          "Hiking and trekking",
+          "Skiing and snowboarding",
+          "Alpine cabin accommodations",
+          "Panoramic mountain views"
+        ],
+        "details": {
+          "overview": "Experience the thrill of high-altitude adventures in Switzerland.",
+          "location": "Switzerland",
+          "timing": "Seasonal (Winter)",
+          "inclusionExclusionDescription": "Details about what's included and excluded in the package.",
+          "additionalInformation": "Any additional information about the tour.",
+          "travelTips": "Useful travel tips for high-altitude travel.",
+          "options": "Customization options for the package.",
+          "policy": "Booking and cancellation policies for the package."
+        },
+        "itinerary": {
+          "day1": {
+            "8:00 am": "Arrival in Switzerland and check-in to alpine cabin",
+            "10:00 am": "Morning hike in the Alps",
+            "1:00 pm": "Lunch at a mountain chalet",
+            "4:00 pm": "Skiing and snowboarding lessons",
+            "7:00 pm": "Dinner by the fireplace"
+          },
+          "day2": {
+            "8:00 am": "Breakfast with panoramic mountain views",
+            "9:00 am": "Full-day trek to explore the Swiss Alps",
+            "1:00 pm": "Picnic lunch on a mountain summit",
+            "4:00 pm": "Afternoon skiing adventures",
+            "7:00 pm": "Après-ski fondue dinner"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "name": "Cultural Exploration",
+        "destination": "Japan",
+        "duration": "2 days",
+        "generalPrice": 4999,
+        "offerPrice": 4000,
+        "rating": 5,
+        "description": "Discover the rich cultural heritage of Japan through immersive experiences.",
+        "highlights": [
+          "Traditional tea ceremonies",
+          "Visit to historic temples and shrines",
+          "Culinary adventures",
+          "Kimono dressing workshops"
+        ],
+        "details": {
+          "overview": "Embark on a cultural journey through the heart of Japan.",
+          "location": "Japan",
+          "timing": "Year-round",
+          "inclusionExclusionDescription": "Details about what's included and excluded in the package.",
+          "additionalInformation": "Any additional information about the tour.",
+          "travelTips": "Useful travel tips for cultural exploration in Japan.",
+          "options": "Customization options for the package.",
+          "policy": "Booking and cancellation policies for the package."
+        },
+        "itinerary": {
+          "day1": {
+            "8:00 am": "Arrival in Tokyo and check-in to traditional ryokan",
+            "10:00 am": "Tea ceremony experience",
+            "1:00 pm": "Lunch at a traditional Japanese restaurant",
+            "4:00 pm": "Visit to Meiji Shrine",
+            "7:00 pm": "Dinner featuring sushi and sashimi"
+          },
+          "day2": {
+            "8:00 am": "Breakfast at the ryokan",
+            "9:00 am": "Explore historic Kyoto temples and gardens",
+            "1:00 pm": "Lunch at a Kyoto-style kaiseki restaurant",
+            "4:00 pm": "Traditional kimono dressing workshop",
+            "7:00 pm": "Dinner with geisha entertainment"
+          }
+        }
+      }
+      
+  ]
