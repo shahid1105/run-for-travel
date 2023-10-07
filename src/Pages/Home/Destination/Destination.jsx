@@ -6,7 +6,7 @@ const Destination = () => {
   const [destination, setDestination] = useState([]);
   console.log(destination);
   useEffect(() => {
-    fetch("../../../public/destination.json")
+    fetch("../../../../public/destination.json")
       .then((res) => res.json())
       .then((data) => setDestination(data));
   }, []);

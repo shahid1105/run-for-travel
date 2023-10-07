@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 // import {BsAirplane} from 'react-icons';
 // import { icons } from 'react-icons';
 import {FaCarSide } from 'react-icons/fa';
@@ -9,6 +9,7 @@ import './card.css'
 import { useKeenSlider } from "keen-slider/react"
 import "keen-slider/keen-slider.min.css"
 // import "./styles.css"
+
 
 
 const Card = () => {

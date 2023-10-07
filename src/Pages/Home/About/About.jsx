@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import img from "../../../../public/img-for-about/A.png";
-import { BsArrowRight } from 'react-icons/Bs';
+import { BsArrowRight } from "react-icons/bs";
+// import { BsArrowRight } from 'react-icons/Bs';
 
 const About = () => {
   return (
