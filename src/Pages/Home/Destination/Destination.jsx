@@ -20,17 +20,17 @@ const Destination = () => {
                 <div
                 key={index}
                  >
-  <div className="mybox">
-  <figure><img className="rounded-3xl h-[180px] w-[200px] desImage" src={destDatas.image} alt="Shoes" /></figure>
-  <div className="mycontent">
-  <a className="btn bg-[#ff5403] btn-sm" href="">See More</a>
-  </div>
-  </div>
-  <div >
-    <h2 >{destDatas.name}</h2>
-    <p>{destDatas.place}</p>
-  </div>
-</div>
+                  <div className="mybox">
+                  <figure><img className="rounded-3xl h-[180px] w-[200px] desImage" src={destDatas.image} alt="Shoes" /></figure>
+                  <div className="mycontent">
+                  <a className="btn bg-[#ff5403] btn-sm" href="">See More</a>
+                  </div>
+                  </div>
+                  <div >
+                    <h2 >{destDatas.name}</h2>
+                    <p>{destDatas.place}</p>
+                  </div>
+                </div>
                 </>))
             }
             </div>
