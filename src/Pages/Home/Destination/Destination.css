@@ -14,7 +14,7 @@
     height: 100%;
     width: 100%;
     text-align: center;
-    background: rgba(0, 0, 0, .6);
+    background: rgba(134, 136, 139, 0.6);
     padding: 2rem;
     padding-top: 5rem;
     border-radius: 1.5rem;
@@ -25,3 +25,34 @@
     top: 0%;
     transition: top 0.5s ease-in-out;
 }
+
+
+@media (max-width: 768px) {
+    .mybox{
+        overflow: hidden;
+        position: relative;
+    }
+    
+    .mybox img{
+        object-fit: cover;
+    }
+    
+    .mybox .mycontent{
+        position: absolute;
+        top: -100%;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        text-align: center;
+        background: rgba(134, 136, 139, 0.6);
+        padding: 2rem;
+        padding-top: 5rem;
+        border-radius: 1.5rem;
+        transition: top 0.5s ease-in-out;
+    }
+  
+    .mybox:hover .mycontent {
+      top: 0%;
+      transition: top 0.5s ease-in-out;
+    }
+  }
